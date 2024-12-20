@@ -1,18 +1,6 @@
 # Changelog
 
 --------------------------------------------
-[1.1.2] - 2023-09-14
-
-* Add more frame cryptor api.
-
-[1.1.1] - 2023-08-14
-
-* Add more async methods.
-
-[1.1.0] - 2023-06-29
-
-* Add FrameCryptor interface.
-
 [1.0.13] - 2023-04-14
 
 * Add RTCDegradationPreference to RTCRtpParameters.
